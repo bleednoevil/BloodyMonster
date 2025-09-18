@@ -12,13 +12,14 @@ This repository includes materials covered by a U.S. provisional patent applicat
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
-## Description & Summary
+## Summary
 This code essentially allows a Bluetooth headphone to trigger payloads and audio at the same time. There is no loss of functionality, only a gain of features you could have never imagined.
 
+## Hardware
 BloodyMonster Hardware: Monster MBA9-1011-BLK (2 in 1 Bluetooth TV Transmitter)
-BloodyPods Hardware: Apple AirPods Pro 2 or Bluetooth headphones with buttons
 Currently Operational on Apple macOS i5 & M1 Models, including High Sierra, Monterey and Sequoia 15.6.1 
 
+## Description & Background
 This is pure code inspired by hackers & built for hackers. It allows automation for Red Teams and Blue Teams through gestures and button presses.
 
 Use it for learning, expression, and pushing boundaries. I kept it as a Bash script to make it as simple as possible but I have a whole backend and architecture setup, with Python.
@@ -40,6 +41,9 @@ Thank you to all for reaching out and connecting with me as well, this research 
 
 I am available for public speaking on high level cybersecurity threats and bleeding-edge tool development. I am also available for consulting and roles in offensive cybersecurity as well.
 
-Contact me by DM or email me at nobloodyregrets@gmail.com
-
+## Reference
 ASCII art created using Christopher Johnson’s ASCII Art Collection: asciiart.website
+
+## Connect & Contact
+Connect with me at www.linkedin.com/in/raycervantes
+Contact me email me at nobloodyregrets@gmail.com
