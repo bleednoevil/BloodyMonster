@@ -46,4 +46,6 @@ ASCII art created using Christopher Johnson’s ASCII Art Collection: asciiart.w
 
 ## Connect & Contact
 Connect with me at www.linkedin.com/in/raycervantes
-Contact me email me at nobloodyregrets@gmail.com
+
+Contact me at nobloodyregrets@gmail.com
+
