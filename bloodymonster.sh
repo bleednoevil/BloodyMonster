@@ -15,7 +15,7 @@
 
 
 # BloodyMonster aka 17 Bloody Bullets - macOS Version (Tested on macOS i5 & Apple M1)
-# Author: Ray Cervantes aka $pill Blood
+# Author: Ray Cervantes aka $pill_bl**d
 # nobloodyregrets@gmail.com
 # www.linkedin.com/in/raycervantes
 # For Research/Educational/Art Purposes Only If Cited Correctly
