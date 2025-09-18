@@ -16,9 +16,7 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 This code essentially allows a Bluetooth headphone to trigger payloads and audio at the same time. There is no loss of functionality, only a gain of features you could have never imagined.
 
 ## Hardware
-BloodyMonster Hardware: Monster MBA9-1011-BLK (2 in 1 Bluetooth TV Transmitter)
-
-Currently Operational on Apple macOS i5 & M1 Models, including High Sierra, Monterey and Sequoia 15.6.1 
+BloodyMonster Hardware: Monster MBA9-1011-BLK (2 in 1 Bluetooth TV Transmitter) & Apple macOS i5 & M1 Models (including High Sierra, Monterey and Sequoia) 
 
 ## Description & Background
 This is pure code inspired by hackers & built for hackers. It allows automation for Red Teams and Blue Teams through gestures and button presses.
@@ -28,7 +26,7 @@ Use it for learning, expression, and pushing boundaries. I kept it as a Bash scr
 BloodyScript is coming soon!
 Also, more documentation and reiterations are on the way. The code is not in any way perfect but it is operational and ready to be modified.
 
-For the ones that look deeper you will find that this code will allow you to trigger payloads with your iOS device to a laptop 💻 far away or nearby just by changing the name on the iOS device. Just drop Payload## with payload number instead of ##.
+For the ones that look deeper you will find that this code will allow you to trigger payloads with your iOS device to a laptop 💻 or macOS device far away or nearby just by changing the name on the iOS device. Just drop Payload## with payload number instead of ##.
 
 And if you look even deeper, you will find a worldwide communication system piggybacking off of Apple iCloud infrastructure without using iMessage.
 
