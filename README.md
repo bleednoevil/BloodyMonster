@@ -17,6 +17,7 @@ This code essentially allows a Bluetooth headphone to trigger payloads and audio
 
 ## Hardware
 BloodyMonster Hardware: Monster MBA9-1011-BLK (2 in 1 Bluetooth TV Transmitter)
+
 Currently Operational on Apple macOS i5 & M1 Models, including High Sierra, Monterey and Sequoia 15.6.1 
 
 ## Description & Background
