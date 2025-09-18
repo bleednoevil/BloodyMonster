@@ -12,6 +12,7 @@ This repository includes materials covered by a U.S. provisional patent applicat
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
+## Description & Summary
 This code essentially allows a Bluetooth headphone to trigger payloads and audio at the same time. There is no loss of functionality, only a gain of features you could have never imagined.
 
 BloodyMonster Hardware: Monster MBA9-1011-BLK (2 in 1 Bluetooth TV Transmitter)
